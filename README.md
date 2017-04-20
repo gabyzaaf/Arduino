@@ -20,13 +20,19 @@ We use an ESP8266 :
 
 
 we used this componants :
-![hardware](img/Fritzing.png)
+![hardware](img/Fritzing2.png)
  
 We have use a LED ,Laser and a sensor for detect the laser light, and img.
 
 We have connect the componants like this : 
 
 ![componant](img/img_comp.jpg)
+
+![componant](img/mirroir.jpg)
+
+![componant](img/lighton.png)
+
+![componant](img/lightoff.png)
 
 
 #### Firmware : 
