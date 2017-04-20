@@ -68,6 +68,6 @@ The score interface is like this on the web :
 
 ###### Demo on youtube.
 
-[TableSoccer1](https://youtu.be/AaErkM0wb-8)
-
+The first link : [TableSoccer1](https://youtu.be/AaErkM0wb-8)
+The second link : [TableSoccer2](https://youtu.be/VqBfhZimKc8)
 
