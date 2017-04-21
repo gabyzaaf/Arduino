@@ -26,6 +26,12 @@ We have connect the componants like this :
 
 ![componant](img/img_comp.jpg)
 
+![componant](img/mirroir.jpg)
+
+![componant](img/lighton.png)
+
+![componant](img/lightoff.png)
+
 
 #### Firmware : 
 We used this [program](babyfoot.ino) for communicate with [ubidots](http://www.ubidots.com) board.
