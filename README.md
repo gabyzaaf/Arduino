@@ -16,7 +16,7 @@ Each people have an organisation like this :
 
 ### Hardware.
 We use an ESP8266 : 
-![ESP8266](img/ESP8266.jpg)
+![ESP8266](img/Wemos_D1_mini.jpg)
 
 
 we used this componants :
